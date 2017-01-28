@@ -1,0 +1,18 @@
+{
+    "LocalBuild": "build_debug",
+    "LocalIsFormatHome": false,
+    "LocalIsInstallData": false,
+    "LocalIsRunTests": false,
+    "LocalIsVerify": false,
+    "LocalProjectId": "",
+    "bootsuffix": "_boot",
+    "buildprefix": "build_",
+    "description": "Embedded Artists LPC4088 Quick Start Board",
+    "github": "https://github.com/StratifyLabs/eaLPC4088qs",
+    "hardwareid": "0x0000000E",
+    "name": "eaLPC4088qs",
+    "publisher": "Stratify Labs, Inc",
+    "tags": "nxp,lpc,lpc40xx,lpc4088,arm,cortex-m4",
+    "type": "StratifyKernel",
+    "version": "0.1"
+}
