@@ -11,6 +11,7 @@
     "github": "https://github.com/StratifyLabs/eaLPC4088qs",
     "hardwareid": "0x0000000E",
     "name": "eaLPC4088qs",
+    "permissions": "public",
     "publisher": "Stratify Labs, Inc",
     "tags": "nxp,lpc,lpc40xx,lpc4088,arm,cortex-m4",
     "type": "StratifyKernel",
