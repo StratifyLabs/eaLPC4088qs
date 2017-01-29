@@ -49,8 +49,8 @@ const mcu_board_config_t mcu_board_config = {
 		.usb_max_packet_zero = MCU_CORE_USB_MAX_PACKET_ZERO_VALUE,
 		.usb_pin_assign = 1,
 		.event = board_event_handler,
-		.led.port = 2, .led.pin = 21,
-		.o_flags = 0
+		.led.port = 2, .led.pin = 19,
+		.o_flags = MCU_BOARD_CONFIG_FLAG_LED_ACTIVE_HIGH
 };
 
 #define SCHED_TASK_TOTAL 10
